@@ -1,4 +1,4 @@
-# UMC 3rd 팀 "당신의 발자취"
+# "당신의 발자취" 안드로이드 앱 서비스
 ![foot-step_view1](https://user-images.githubusercontent.com/106023670/219019351-2ab4859e-25bc-46e3-9080-324212d4c060.png)
 
 ### ⚙️ Notion Link
